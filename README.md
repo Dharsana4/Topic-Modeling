@@ -1,1 +1,1 @@
-# Topic-Modeling
+# Topic-Modeling of newsgroup dataset
